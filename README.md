@@ -39,9 +39,11 @@ You can contact me or find me on social media: [www.linkedin.com/in/william-soar
 
 Feel free to explore my repository and check out my projects! I'm excited to connect and collaborate with you!
 
-###
+### 
 
-<div align="center">
+## 📊 Stats
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=WilliamSoares21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilliamSoares21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
