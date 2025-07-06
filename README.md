@@ -1,50 +1,74 @@
-# 👋 Hi, I'm William Soares!
+# 👋 Hi there, I'm William Soares!
 
-🔍 **About Me**  
-I am a student of Systems Analysis and Development, passionate about technology and software development. I am seeking opportunities to apply my knowledge and grow in the field.
-
-
-## 🤖 Languages ​​and Technologies
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-## 👀 Interests
-- **Programming Languages**: Java, Python
-- **Software Development**: Best coding practices, agile methodologies
-- **Cybersecurity**: Vulnerability analysis, security practices
-
-## 🌱 Currently Learning
-I am currently focused on my studies at university, learning Java and Python, while preparing to become a Software Engineer.
-
-## 💞️ Collaborations
-I am open to collaborations on software development projects, especially using Java and Python. I would love to work with people who share a passion for technology and innovation.
-
-## 📫 How to Reach Me
-You can contact me or find me on social media: [www.linkedin.com/in/william-soares-a429ba228](https://www.linkedin.com/in/william-soares-a429ba228).
+🎓 **Systems Analysis and Development Student** | 💻 Aspiring **Backend Developer** | 🚀 Passionate about **Technology & Software Engineering**
 
 ---
 
-Feel free to explore my repository and check out my projects! I'm excited to connect and collaborate with you!
+## 🔍 About Me
 
-### 
+I'm William, a Systems Analysis and Development student driven by a strong passion for technology, programming, and solving real-world problems through code. I'm constantly learning and looking for opportunities to grow as a developer, especially in backend development and software architecture.
 
-## 📊 Stats
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=WilliamSoares21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilliamSoares21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:24px;" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="height:24px;" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:24px;" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:24px;" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:24px;" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:24px;" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:24px;" alt="Git" />
 </div>
 
+---
+
+## 👀 Interests
+
+- **Backend Development**: Java, Spring Boot, APIs  
+- **Programming Fundamentals**: Clean code, OOP, algorithms  
+- **Cybersecurity**: Network security, vulnerability analysis  
+- **Open Source**: Learning through contribution and collaboration  
+
+---
+
+## 📚 Currently Learning
+
+- Deepening my knowledge of **Java** and **Python**  
+- Building projects using **Spring Boot** and **PostgreSQL**  
+- Exploring **RESTful APIs** and **web integration**  
+- Studying **network and information security** principles  
+
+---
+
+## 🤝 Open to Collaborate
+
+I’m looking to connect and collaborate on software development projects, especially those involving:
+
+- Java backend systems  
+- Python scripting and automation  
+- Full-stack web applications (basic frontend + Java backend)  
+
+Let's build something awesome together!
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn – William Soares](https://www.linkedin.com/in/william-soares-a429ba228)  
+- 💬 I’m always open to chat about tech, projects, or opportunities.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=WilliamSoares21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamSoares21&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+</div>
+
+---
+
+Thanks for visiting!  
+Feel free to explore my repositories — I'm always working on something new. 🙌
