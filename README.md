@@ -130,6 +130,26 @@ Aplicação frontend com algoritmo eficiente de pareamento para sorteios de amig
 
 ---
 
+### 💬 Challenge Forum Hub
+
+**Stack:** `Java` `Spring Boot`
+
+API REST para gerenciamento de um fórum de discussões, desenvolvida como desafio da formação Java e Spring Boot da Alura.
+
+**🔗 Links:** [Repositório GitHub](https://github.com/WilliamSoares21/challenge-forum-hub)
+
+---
+
+### 🏥 VollMed API
+
+**Stack:** `Java` `Spring Boot`
+
+Projeto acadêmico focado na construção de uma API REST completa para gerenciamento de consultas médicas.
+
+**🔗 Links:** [Repositório GitHub](https://github.com/WilliamSoares21/vollmed-api)
+
+---
+
 ### 📱 InstaLike Backend
 
 **Stack:** `Node.js` `MongoDB Atlas` `Google Cloud` `Postman`
