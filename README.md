@@ -30,7 +30,7 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Backend Java com foco em construir aplicações server-side robustas. Atualmente no 5º semestre de Análise e Desenvolvimento de Sistemas na Estácio de Sá (conclusão prevista: Jul/2026). Experiência prática em desenvolvimento Full-Stack e projetos de Análise de Dados. Apaixonado por código limpo, arquitetura de software e boas práticas.
+Desenvolvedor Backend Java com foco em construir aplicações server-side robustas. Atualmente no 5º semestre de Análise e Desenvolvimento de Sistemas na Estácio de Sá (conclusão prevista: 2027). Experiência prática em desenvolvimento Full-Stack e projetos de Análise de Dados. Apaixonado por código limpo, arquitetura de software e boas práticas.
 
 **🎯 Principais Competências:**
 
