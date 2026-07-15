@@ -78,6 +78,8 @@ Java Backend Developer focused on building robust server-side applications. Curr
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### **Testing & Quality**
 
@@ -92,7 +94,7 @@ Java Backend Developer focused on building robust server-side applications. Curr
 - 🧪 Learning **automated testing** with JUnit and Mockito
 - 🔐 Studying **API security** and authentication best practices
 - 🏗️ Implementing **software engineering best practices** and design patterns
-- ☁️ Exploring **CI/CD** concepts and cloud deployment
+- ☁️ Exploring **CI/CD** concepts and cloud deployment with OCI
 - 📊 Enhancing **data analysis** skills with Python and Pandas
 
 ---
@@ -168,15 +170,15 @@ Full-Stack training: HTML5, CSS3, JavaScript, React, Database
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamSoares21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="William's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamSoares21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=WilliamSoares21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="William's GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=WilliamSoares21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=WilliamSoares21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamSoares21&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=WilliamSoares21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=WilliamSoares21&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages" />
 </div>
 
 ---

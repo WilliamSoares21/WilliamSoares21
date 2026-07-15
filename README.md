@@ -30,7 +30,7 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Backend Java com foco em construir aplicações server-side robustas. Atualmente no 5º semestre de Análise e Desenvolvimento de Sistemas na Estácio de Sá (conclusão prevista: 2027). Experiência prática em desenvolvimento Full-Stack e projetos de Análise de Dados. Apaixonado por código limpo, arquitetura de software e boas práticas.
+Desenvolvedor Backend Java com foco em construir aplicações server-side robustas. Atualmente no 5º semestre de Análise e Desenvolvimento de Sistemas na Estácio de Sá (conclusão prevista: 2027). Experiência prática em desenvolvimento Full-Stack e projetos de Análise de Dados.
 
 **🎯 Principais Competências:**
 
@@ -52,8 +52,6 @@ Desenvolvedor Backend Java com foco em construir aplicações server-side robust
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Frameworks & Bibliotecas**
 
@@ -79,6 +77,7 @@ Desenvolvedor Backend Java com foco em construir aplicações server-side robust
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### **Testes & Qualidade**
 
@@ -93,7 +92,7 @@ Desenvolvedor Backend Java com foco em construir aplicações server-side robust
 - 🧪 Aprendendo **testes automatizados** com JUnit e Mockito
 - 🔐 Estudando **segurança de APIs** e boas práticas de autenticação
 - 🏗️ Implementando **boas práticas de engenharia de software** e design patterns
-- ☁️ Explorando conceitos de **CI/CD** e deploy em nuvem
+- ☁️ Explorando conceitos de **CI/CD** e deploy em nuvem com OCI
 - 📊 Aprimorando habilidades de **análise de dados** com Python e Pandas
 
 ---
@@ -189,15 +188,15 @@ Formação Full-Stack: HTML5, CSS3, JavaScript, React, Banco de Dados
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WilliamSoares21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Estatísticas GitHub de William" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WilliamSoares21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Linguagens Mais Usadas" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=WilliamSoares21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Estatísticas GitHub de William" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=WilliamSoares21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Linguagens Mais Usadas" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=WilliamSoares21&theme=tokyonight&hide_border=true" alt="Sequência GitHub" />
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WilliamSoares21&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" alt="Linguagens" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=WilliamSoares21&theme=tokyonight&hide_border=true" alt="Sequência GitHub" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=WilliamSoares21&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" alt="Linguagens" />
 </div>
 
 ---
